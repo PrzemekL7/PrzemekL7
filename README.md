@@ -1,8 +1,6 @@
 ### Hello World
 
-I am a frontend software developer from Kraków, Poland
-
-- Working on multiple frontend projects using React
+I am a frontend software developer from Kraków, Poland. Working on multiple frontend projects using React
 
 ### Connect with me:
 
